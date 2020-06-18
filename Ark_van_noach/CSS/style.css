@@ -1,0 +1,136 @@
+ body {
+     background-color: rgb(184, 216, 247);
+ }
+ 
+ .navbar {
+     background-color: rgb(2, 59, 165);
+     margin-top: -4px;
+ }
+ 
+ #banner {
+     min-width: 100%;
+     max-height: 0%;
+ }
+ 
+ .nav-link {
+     color: rgb(255, 255, 255);
+     text-shadow: -1.2px -1px 0 rgb(7, 7, 7), 1px -1px 0 rgb(17, 3, 141), -1px 1px 0 rgb(17, 3, 141), 1px 1px 0 rgb(17, 3, 141);
+ }
+ 
+ .navbar-brand {
+     color: white;
+     text-shadow: -1.2px -1px 0 rgb(0, 0, 0), 1px -1px 0 rgb(17, 3, 141), -1px 1px 0 rgb(17, 3, 141), 1px 1px 0 rgb(17, 3, 141);
+ }
+ 
+ a:hover {
+     color: rgb(0, 174, 255);
+ }
+ 
+ img {
+     max-width: 100px;
+     max-height: 100px;
+ }
+ 
+ #container {
+     margin-left: 11.5cm;
+ }
+ 
+ #social {
+     max-height: 1cm;
+ }
+ 
+ #social2 {
+     max-height: 0.7cm;
+ }
+ 
+ #social3 {
+     max-height: 0.7cm;
+     margin-left: 0.15cm;
+ }
+ 
+ h1 {
+     color: rgb(255, 255, 255);
+     text-shadow: -1.2px -1px 0 rgb(7, 7, 7), 1px -1px 0 rgb(17, 3, 141), -1px 1px 0 rgb(17, 3, 141), 1px 1px 0 rgb(17, 3, 141);
+     text-align: center;
+     margin: auto;
+     font-size: 29px;
+     font-style: normal;
+     font-variant: normal;
+     font-weight: 900;
+     line-height: 42.4px;
+ }
+ 
+ h5 {
+     color: rgb(0, 0, 0);
+     font-style: normal;
+     font-variant: small-caps;
+     font-weight: 900;
+ }
+ 
+ a {
+     color: rgb(255, 255, 255);
+     text-shadow: -1.2px -1px 0 rgb(7, 7, 7), 1px -1px 0 rgb(17, 3, 141), -1px 1px 0 rgb(17, 3, 141), 1px 1px 0 rgb(17, 3, 141);
+     font-style: normal;
+     font-variant: small-caps;
+ }
+ 
+ p {
+     color: rgb(255, 255, 255);
+     text-shadow: -1.2px -1px 0 rgb(7, 7, 7), 1px -1px 0 rgb(17, 3, 141), -1px 1px 0 rgb(17, 3, 141), 1px 1px 0 rgb(17, 3, 141);
+     font-style: normal;
+ }
+ 
+ .form-group {
+     margin-top: 50px;
+ }
+ 
+ .form-control {
+     margin: 10px;
+ }
+ 
+ .dropdown-menu {
+     background-color: rgb(122, 2, 2);
+     padding: 10px;
+     border-color: rgb(107, 2, 2);
+     border-width: 5px;
+     border-radius: 10px;
+ }
+ 
+ .dropdown-menu:link {
+     color: green;
+ }
+ 
+ #footer {
+     text-align: center;
+     background-color: rgb(14, 6, 117);
+     padding: 3px;
+     margin: 0px 0px;
+     position: relative;
+     left: -1cm;
+     bottom: 0;
+     width: 110%;
+ }
+ 
+ #footer1 {
+     background-color: rgb(28, 70, 155);
+ }
+ 
+ #header {
+     width: 100%;
+     background-color: rgb(123, 38, 202);
+     padding: 15px 0px;
+     margin: 3.5px 0px;
+ }
+ 
+ .btn {
+     padding: 10px 18px;
+     font-weight: 900;
+     color: rgb(7, 74, 175);
+ }
+ 
+ iframe {
+     padding-left: 5px;
+     padding-right: 5px;
+     margin-left: 12.5cm;
+     background-color: rgb(14, 83, 187);
+ }
